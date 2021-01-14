@@ -79,7 +79,6 @@ A disconnected server is now running. You can now launch again your code for the
 
 This project is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licence.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4436129.svg)](https://doi.org/10.5281/zenodo.4436129)
 
  Contributors
 ========================================================
