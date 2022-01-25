@@ -82,15 +82,15 @@ This project is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org
 
  Contributors
 ========================================================
-  - **Hassna El-Bousiydi** , PhD (@helbousiydy), hassna.el.bousiydi@u-picardie.fr
-  - **Alejandro A. Franco** , Principal Investigator, alejandro.franco@u-picardie.fr
-  - **Teo Lombardo** , PhD (@teolombrado), teo.lombardo@u-picardie.fr
-  - **Emiliano Primo** , Post-Doc (@primo-emiliano),
-  - **Marc Duquesnoy** , PhD (@MarcDuquesnoy), marc.duquesnoy@u-picardie.fr
-  - **Mathieu Morcrette** , Research Engineer, mathieu.morcrette@u-picardie.fr
-  - **Patrik Johansson** , Principal Investigator, patrik.johansson@chalmers.se
-  - **Patrice Simon** , Full Professor, simon@chimie.ups-tlse.fr
-  - **Alexis Grimaud** , Research Engineer, alexis.grimaud@college-de-france.fr
+  - **Hassna El-Bousiydi** , PhD 
+  - **Teo Lombardo** , PhD 
+  - **Emiliano Primo** , Post-Doc
+  - **Marc Duquesnoy** , PhD
+  - **Mathieu Morcrette** , Research Engineer
+  - **Patrik Johansson** , Full Professor & Principal Investigator, patrik.johansson@chalmers.se
+  - **Patrice Simon** , Full Professor
+  - **Alexis Grimaud** , Researcher
+  - **Alejandro A. Franco** , Full Professor & Principal Investigator, alejandro.franco@u-picardie.fr
 
 
 
